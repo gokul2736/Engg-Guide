@@ -1,0 +1,16 @@
+baseURL: "https://gokul2736.github.io/Engg-Guide/"
+languageCode: "en-us"
+title: "The Engineering Guide"
+theme: "PaperMod"
+
+params:
+  defaultTheme: dark
+  # The Amazon Requirement
+  footer:
+    text: "As an Amazon Associate I earn from qualifying purchases."
+
+menu:
+  main:
+    - name: "Hostel Survival"
+      url: "/posts/hostel-kit/"
+      weight: 1
