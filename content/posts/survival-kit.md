@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Hostel Survival Kit: 10 Gadgets Under ₹1000"
-date: 2026-01-17
+date: 2026-01-01
 draft: false
 ---
 
