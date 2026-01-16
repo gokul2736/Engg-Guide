@@ -1,33 +1,53 @@
 ---
-title: "The Under ₹500 Hostel Survival Kit: 4 Things I Use Daily"
+title: "The Ultimate Hostel Survival Kit: 10 Gadgets Under ₹1000"
 date: 2026-01-17
 draft: false
 ---
 
-I learned this the hard way: Hostel rooms are bare bones. You need to upgrade them yourself.
+Living in a hostel is an extreme sport. You have limited space, one plug point, and zero privacy.
+After 2 years of engineering, I've curated the ultimate list of 10 things that make hostel life bearable.
 
-Here are 4 cheap gadgets that saved my sanity (and my deposit money).
+### 1. The "Power Hub" (Extension Board)
+You have a phone, laptop, smartwatch, and power bank. Your room has *one* socket. Do the math.
+* **Get this:** A board with USB slots so you don't need adapters.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/45eNiVA)
 
-### 1. The "Warden-Safe" Wall Hooks
-You aren't allowed to drill nails. But you have wet towels, ID cards, and bags.
-* **The Hack:** Adhesive Wall Hooks. They stick to anything and peel off without leaving a mark.
-* **Why I love them:** My room is finally organized.
-* **Buy Here:** [Self Adhesive Heavy Duty Hooks] (PASTE_AMAZON_LINK_HERE)
+### 2. Wireless Mouse (Logitech B170)
+Coding on a trackpad is torture. If you are serious about LeetCode or Dev, you need a mouse.
+* **Why this one:** It's cheap, practically indestructible, and the battery lasts 12 months.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/4pMDF8b)
 
-### 2. The 10,000mAh Lifesaver (Power Bank)
-Power cuts happen exactly when your phone is at 4%.
-* **Real Talk:** Don't buy the cheap knock-offs. Get a standard 10k mAh one. It charges my phone 2 full times.
-* **My Pick:** [Mi Power Bank 3i / Ambrane 10k] (PASTE_AMAZON_LINK_HERE)
+### 3. Aluminium Laptop Stand
+Hunching over your laptop for 6 hours destroys your neck. This lifts the screen to eye level and keeps your laptop cool during compile times.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/4a3ROIj)
 
-### 3. The "Anti-Malaria" Shield (Liquid Vaporizer)
-You can't code if you are slapping mosquitoes every 30 seconds.
-* **Why:** It's safer than burning coils (which choke you) and cheaper than creams.
-* **Buy Here:** [Good Knight Gold Flash Machine] (PASTE_AMAZON_LINK_HERE)
+### 4. Electric Kettle (The Midnight Savior)
+Mess closed? Hungry at 2 AM? This boils water for Maggi, Coffee, or Oatmeal in 3 minutes.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/3Z3e4gl)
 
-### 4. A Real, Loud Alarm Clock
-"I'll just use my phone." No, you won't. You'll scroll Instagram until 3 AM and snooze the alarm.
-* **The Fix:** A dedicated digital clock with a loud beep. Put it on the other side of the room so you *have* to get up to turn it off.
-* **My Pick:** [Digital Smart Alarm Clock] (PASTE_AMAZON_LINK_HERE)
+### 5. 10,000mAh Power Bank
+Hostel power cuts are unpredictable. Don't let your phone die in the middle of a call (or a game).
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/4sIkeQf)
+
+### 6. Rechargeable Desk Lamp
+Roommates want to sleep, but you have a bug to fix. This focused light saves you from fights.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/3NmzfY4)
+
+### 7. 4-Port USB Hub (High Speed)
+Modern laptops have only 2 ports. You have a mouse, pen drive, phone, and dev boards. This lets you plug them all in at once.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/45juUem)
+
+### 8. Dual Drive Pen Drive (Type-C)
+Hostel WiFi can be fast, but sometimes it blocks the sites you need. Quickly transfer movies or huge datasets from a friend.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/49qPpbt)
+
+### 9. Adhesive Wall Hooks
+No drilling allowed? These stick to the wall for your towel, bag, and ID card. Essential for organization.
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/4k3GqAN)
+
+### 10. Number Lock (Combination Padlock)
+Keys get lost. A 4-digit code doesn't. Secure your cupboard or laptop bag from "borrowers."
+* **Best Pick:** [Check Price on Amazon](https://amzn.to/4b34fpR)
 
 ---
-*Prices change daily. Check the links for the latest deals.*
+*Note: As an Amazon Associate, I earn from qualifying purchases.*
